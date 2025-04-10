@@ -37,8 +37,3 @@ The project achieved its goal of integrating gestures and emotions for dynamic m
 ## Contributors
 Each member contributed to various aspects including UI design, dataset handling, model implementation, and documentation.
 
-## Extracted Figures
-Below are two sample images extracted from the project report:
-
-![Model Diagram 1](extracted_image_1.png)
-![Model Diagram 2](extracted_image_2.png)
