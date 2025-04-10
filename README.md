@@ -1,7 +1,6 @@
 # Emotion-And-Gesture-Based-Music-Recomendation-System
 Recomendation System using Facial expression or Hand Gesture
 
-# Project Summary: Gesture and Emotion-Based Music Recommendation System
 
 ## Overview
 This project presents a hybrid music recommendation system that leverages both **hand gestures** and **facial emotions** to personalize song suggestions. By combining gesture recognition and emotion analysis, the system enhances user interaction and provides a tailored auditory experience.
