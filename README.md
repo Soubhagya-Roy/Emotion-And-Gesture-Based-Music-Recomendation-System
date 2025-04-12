@@ -12,7 +12,8 @@ This project presents a hybrid music recommendation system that leverages both *
   <img src="https://miro.medium.com/v2/resize:fit:753/1*slyZ64ftG12VU4VTEmSfBQ.png" width="100"><br>
 - Songs are recommended based on detected gestures (higher priority) and emotions.<br>
    <img src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*e_7bN4nfREd0KGai-eQzGQ.gif" width="100"><br>
-- Utilizes the concept of **Navarasa** (nine emotions) mapped to **Melakarta ragas**.
+- Utilizes the concept of **Navarasa** (nine emotions) mapped to **Melakarta ragas**.<br>
+   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FvfLwiPH_JmqClocxq5adA.gif" width="100">
 - Built with Python, OpenCV, Tkinter (for GUI), and Pygame (for music playback).
 
 ## Datasets Used
