@@ -6,7 +6,7 @@ Recomendation System using Facial expression or Hand Gesture
 This project presents a hybrid music recommendation system that leverages both **hand gestures** and **facial emotions** to personalize song suggestions. By combining gesture recognition and emotion analysis, the system enhances user interaction and provides a tailored auditory experience.
 
 ## Key Features
-- **Gesture Recognition** using **MediaPipe** and **TensorFlow**.
+- **Gesture Recognition** using **MediaPipe** and **TensorFlow**.<br>
   <img src="https://miro.medium.com/v2/resize:fit:1200/0*3B0EpRSZq5RHGalq.png" width="100"/>
 - **Emotion Detection** using **Facial Expression Recognizer (FER)**.
 - Songs are recommended based on detected gestures (higher priority) and emotions.
