@@ -7,7 +7,7 @@ This project presents a hybrid music recommendation system that leverages both *
 
 ## Key Features
 - **Gesture Recognition** using **MediaPipe** and **TensorFlow**.
-  ![Alt text](https://miro.medium.com/v2/resize:fit:1200/0*3B0EpRSZq5RHGalq.png)
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*3B0EpRSZq5RHGalq.png" width="600"/>
 - **Emotion Detection** using **Facial Expression Recognizer (FER)**.
 - Songs are recommended based on detected gestures (higher priority) and emotions.
 - Utilizes the concept of **Navarasa** (nine emotions) mapped to **Melakarta ragas**.
