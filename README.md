@@ -10,7 +10,8 @@ This project presents a hybrid music recommendation system that leverages both *
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjN3y5sR8dtGkoOwaks7KShZA-aUvSM3xIQ&s" width="95">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt0OU-18slF5XnJ0no2b9gA8twntZG6UngQ&s" width="100"/>
 - **Emotion Detection** using **Facial Expression Recognizer (FER)**.<br>
   <img src="https://miro.medium.com/v2/resize:fit:753/1*slyZ64ftG12VU4VTEmSfBQ.png" width="100"><br>
-- Songs are recommended based on detected gestures (higher priority) and emotions.
+- Songs are recommended based on detected gestures (higher priority) and emotions.<br>
+<img src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*e_7bN4nfREd0KGai-eQzGQ.gif" width="100">
 - Utilizes the concept of **Navarasa** (nine emotions) mapped to **Melakarta ragas**.
 - Built with Python, OpenCV, Tkinter (for GUI), and Pygame (for music playback).
 
