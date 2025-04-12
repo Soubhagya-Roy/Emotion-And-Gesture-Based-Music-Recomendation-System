@@ -9,6 +9,7 @@ This project presents a hybrid music recommendation system that leverages both *
 - **Gesture Recognition** using **MediaPipe** and **TensorFlow**.<br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjN3y5sR8dtGkoOwaks7KShZA-aUvSM3xIQ&s" width="95">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt0OU-18slF5XnJ0no2b9gA8twntZG6UngQ&s" width="100"/>
 - **Emotion Detection** using **Facial Expression Recognizer (FER)**.
+  <img src="https://www.researchgate.net/publication/371658147/figure/fig1/AS:11431281168605580@1687031083471/Selected-examples-of-the-original-FER2013-dataset.ppm" width="100">
 - Songs are recommended based on detected gestures (higher priority) and emotions.
 - Utilizes the concept of **Navarasa** (nine emotions) mapped to **Melakarta ragas**.
 - Built with Python, OpenCV, Tkinter (for GUI), and Pygame (for music playback).
