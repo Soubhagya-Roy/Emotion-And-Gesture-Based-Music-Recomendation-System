@@ -17,8 +17,8 @@ This project presents a hybrid music recommendation system that leverages both *
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvGShLAJbL5g1fezQUTHYX7zWX7XRXmNv8A&s" width="100">&nbsp;<img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" width="114">&nbsp;<img src="https://pbs.twimg.com/profile_images/1137034734872203266/BMH5Eplh_400x400.png" width="101">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoqby6z-8P6NRa3cPjz8He-GrRNDo0OotEA&s" width="101">
 
 ## Datasets Used
-- **FER2013**: For facial emotion classification into seven emotions.
-  <img src="https://datasets.activeloop.ai/wp-content/uploads/2022/09/FER2013-1024x613.png" width="200">
+- **FER2013**: For facial emotion classification into seven emotions.<br>
+  <img src="https://datasets.activeloop.ai/wp-content/uploads/2022/09/FER2013-1024x613.png" width="200"><br>
 - **Hand Gesture Recognition Dataset (Kaggle)**: 24,000 images across 20 gestures.
 
 ## Model Architecture
