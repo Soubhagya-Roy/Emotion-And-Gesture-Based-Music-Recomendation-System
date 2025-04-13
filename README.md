@@ -14,7 +14,7 @@ This project presents a hybrid music recommendation system that leverages both *
 - Utilizes the concept of **Navarasa** (nine emotions) mapped to **Melakarta ragas**.<br>
    
 - Built with Python, OpenCV, Tkinter (for GUI), and Pygame (for music playback).<br>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvGShLAJbL5g1fezQUTHYX7zWX7XRXmNv8A&s" width="100">&nbsp;<img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" width="114">&nbsp;<img src="https://pbs.twimg.com/profile_images/1137034734872203266/BMH5Eplh_400x400.png" width="101">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvGShLAJbL5g1fezQUTHYX7zWX7XRXmNv8A&s" width="100">&nbsp;<img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" width="114">&nbsp;<img src="https://pbs.twimg.com/profile_images/1137034734872203266/BMH5Eplh_400x400.png" width="101">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoqby6z-8P6NRa3cPjz8He-GrRNDo0OotEA&s" width="100">
 
 ## Datasets Used
 - **FER2013**: For facial emotion classification into seven emotions.
