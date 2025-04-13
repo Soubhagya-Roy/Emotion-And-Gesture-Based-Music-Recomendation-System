@@ -19,7 +19,8 @@ This project presents a hybrid music recommendation system that leverages both *
 ## Datasets Used
 - **FER2013**: For facial emotion classification into seven emotions.<br>
   <img src="https://datasets.activeloop.ai/wp-content/uploads/2022/09/FER2013-1024x613.png" width="200"><br>
-- **Hand Gesture Recognition Dataset (Kaggle)**: 24,000 images across 20 gestures.
+- **Hand Gesture Recognition Dataset (Kaggle)**: 24,000 images across 20 gestures.<br>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*UXTIVr1ghJ30DOya.png" width="200"><br>
 
 ## Model Architecture
 - Hand gesture classification using DenseNet201.
