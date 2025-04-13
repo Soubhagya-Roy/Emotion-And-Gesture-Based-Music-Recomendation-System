@@ -41,6 +41,4 @@ The project achieved its goal of integrating gestures and emotions for dynamic m
 - Context-aware music selection.
 - Integration with other domains like video content and virtual assistants.
 
-## Contributors
-Each member contributed to various aspects including UI design, dataset handling, model implementation, and documentation.
 
