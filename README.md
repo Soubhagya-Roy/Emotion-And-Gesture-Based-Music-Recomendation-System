@@ -1,7 +1,7 @@
 
 <div align="center">
  
-   <img src="https://media.istockphoto.com/id/1162732645/vector/hand-drawn-music-instruments-orcestra-horizontal-banner-or-cover-for-social-media-ink-style.jpg?s=612x612&w=0&k=20&c=lGSh2yGEyVtxoGFMq5joeGo8tnBwqrHDoPUFM_tEoIg=" >
+   <img src="https://media.istockphoto.com/id/1162732645/vector/hand-drawn-music-instruments-orcestra-horizontal-banner-or-cover-for-social-media-ink-style.jpg?s=612x612&w=0&k=20&c=lGSh2yGEyVtxoGFMq5joeGo8tnBwqrHDoPUFM_tEoIg=" width="200">
  
 </div>
  
