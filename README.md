@@ -82,3 +82,7 @@ The project achieved its goal of integrating gestures and emotions for dynamic m
 - Context-aware music selection.
  
 - Integration with other domains like video content and virtual assistants.
+
+## Note :-
+
+This project is developed for **academic and research purposes** music recommendation system that leverages both **hand gestures** and **facial emotions** to personalize song suggestions. Any implementation in real-world scenarios would require thorough testing, ethical review, and compliance with relevant legal frameworks.. For any external or commercial use, please contact the authors for permissions.
