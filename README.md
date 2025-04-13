@@ -7,7 +7,7 @@
  
 
  
-# Emotion-And-Gesture-Based-Music-Recomendation-System
+# Emotion And Gesture Based Music Recomendation System
  
 
  
