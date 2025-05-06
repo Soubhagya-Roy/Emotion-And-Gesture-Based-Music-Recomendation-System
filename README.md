@@ -66,22 +66,7 @@ This project presents a hybrid music recommendation system that leverages both *
 - Music recommendation tailored to real-time emotional and gestural inputs.
  
 - Interface designed for ease of use, especially helpful for hands-free scenarios.
- 
 
- 
-## Conclusion
- 
-The project achieved its goal of integrating gestures and emotions for dynamic music recommendation. With a modular and scalable design, it opens avenues for applications in multimedia interaction and assistive technologies.
- 
-
- 
-## Future Scope
- 
-- Improved real-time adaptability and feedback.
- 
-- Context-aware music selection.
- 
-- Integration with other domains like video content and virtual assistants.
 
 ## Note :-
 
