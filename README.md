@@ -43,7 +43,7 @@ This project presents a hybrid music recommendation system that leverages both *
  
 - **FER2013**: For facial emotion classification into seven emotions.<br>
  
-  <img src="https://datasets.activeloop.ai/wp-content/uploads/2022/09/FER2013-1024x613.png" width="200"><br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fEvcxtzjDrdy_peqR7cAcYq26CKcOd11Qw&s" width="200"><br>
  
 - **Hand Gesture Recognition Dataset (Kaggle)**: 24,000 images across 20 gestures.<br>
  
@@ -71,3 +71,4 @@ This project presents a hybrid music recommendation system that leverages both *
 ## Note :-
 
 This project is developed for **academic and research purposes** music recommendation system that leverages both **hand gestures** and **facial emotions** to personalize song suggestions. Any implementation in real-world scenarios would require thorough testing, ethical review, and compliance with relevant legal frameworks.. For any external or commercial use, please contact the authors for permissions.
+
